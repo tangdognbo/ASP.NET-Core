@@ -22,7 +22,7 @@ namespace core.test.Controllers
         
         public IActionResult Index()
         {
-            //int kk = 0;
+            int kk = 0;
             //int fdfd = 10 / kk;
             //Singleton sdfsd = new Singleton();
 
