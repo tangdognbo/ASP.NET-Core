@@ -19,7 +19,7 @@ namespace core.test.Controllers
         {
             _contest = contest;
         }
-
+        
         public IActionResult Index()
         {
             //int kk = 0;
